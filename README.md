@@ -4,7 +4,7 @@ Overview:
 For this project, I worked with a large dataset from HBO Max containing data about movies and shows. The goal was to analyze viewing trends and turn raw data into actionable insights. The motivation behind this project came from my interest in exploring entertainment data and applying my skills in building clear, engaging reports. This project allowed me to transform raw streaming data into meaningful visuals that highlight important patterns. The final report includes multiple visuals that explain trends in runtime, genre, popularity, ratings, and more.
 
 Data Structure:
-The dataset I worked with is large, containing millions of rows with several columns that describe different details about movies and shows. Each row represents either a movie or a TV show entry.
+The dataset I worked with is large, having several columns that describe different details about movies and shows. Each row represents either a movie or a TV show entry.
 
 Here’s a breakdown of some of the key columns in the dataset:
 
